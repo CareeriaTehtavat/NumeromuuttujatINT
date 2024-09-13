@@ -20,7 +20,7 @@
 
   
 ```
-Luvut yhdessä pötkössä: 105
+Luvut yhdessä: 105
 Luvut erikseen listattuna: 10 5
 Lukujen summa on: 15
 ```
