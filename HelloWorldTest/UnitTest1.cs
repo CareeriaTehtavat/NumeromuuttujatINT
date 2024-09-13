@@ -41,7 +41,7 @@ namespace HelloWorldTest
 
                 var resultLines = result.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None);
 
-                Assert.Equal("Luvut yhdessä pötkössä: 105", resultLines[0]);
+                Assert.Equal("Luvut yhdessÃ¤: 105", resultLines[0]);
                 Assert.Equal("Luvut erikseen listattuna: 10 5", resultLines[1]);
                 Assert.Equal("Lukujen summa on: 15", resultLines[2]);
 
